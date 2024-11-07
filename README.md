@@ -14,19 +14,6 @@ In SnailGame, the player must avoid colliding with snails while running continuo
 - Score tracking and display.
 - Game over screen with an option to restart the game.
 
-## game at run
-### welcome page
-<img src="https://github.com/khalwsh/snail-game/blob/main/assets/first%20page.png" width=900>
-
-### game at morning
-<img src="https://github.com/khalwsh/snail-game/blob/main/assets/snail%20game%20pic.png" width=900>
-
-### game at evening
-<img src="https://github.com/khalwsh/snail-game/blob/main/assets/evening.png" width=900>
-
-### game over
-<img src="https://github.com/khalwsh/snail-game/blob/main/assets/game%20over.png" width=900>
-
 
 
 ## How to Play
@@ -56,7 +43,7 @@ To install the game, you need to have Python and Pygame installed on your machin
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/khalwsh/snail-game.git
+   git clone https://github.com/adham-labeb/Snail-Game-by-python
    then open the snail game directory and run it.
 
    or just download the snail game directory as zip file
